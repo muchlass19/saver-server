@@ -1,0 +1,259 @@
+{
+    "users": [
+        {
+          "id": "ID1646124461473",
+          "platform": "Jira User",
+          "copy": "muchlas.syahlan"
+        },
+        {
+          "id": "ID1646124477186",
+          "platform": "Jira Password",
+          "copy": "Pwd&x2M6eR"
+        },
+        {
+          "id": "ID1646124495041",
+          "platform": "Bamboo",
+          "copy": "00244667"
+        },
+        {
+          "id": "ID1646124521585",
+          "platform": "Bamboo Password",
+          "copy": "br!NDS21"
+        },
+        {
+          "id": "ID1646124561673",
+          "platform": "ODC 3 IP",
+          "copy": "172.28.254.2"
+        },
+        {
+          "id": "ID1646124577241",
+          "platform": "ODC 3 USER",
+          "copy": "ibmmon08"
+        },
+        {
+          "id": "ID1646124640012",
+          "platform": "Tunnel User",
+          "copy": "mbdrian"
+        },
+        {
+          "id": "ID1646124654165",
+          "platform": "Tunnel Password",
+          "copy": "3V!t@n@0i"
+        },
+        {
+          "id": "ID1646124677239",
+          "platform": "Jaeger Staging",
+          "copy": "https://jaeger-server-nds-staging-dev.apps.ocp-dev.bri.co.id/"
+        },
+        {
+          "id": "ID1646124772930",
+          "platform": "CIF P9 (Azizi Asadel)",
+          "copy": "AOPA922"
+        },
+        {
+          "id": "ID1646124789890",
+          "platform": "CIF P9 (Viviyona Apriani)",
+          "copy": "V693453"
+        },
+        {
+          "id": "ID1646124805924",
+          "platform": "CIF LPAR4 (Muchlas Syahlanisyiam)",
+          "copy": "MCGL971"
+        },
+        {
+          "id": "ID1646124818833",
+          "platform": "CIF LPAR4 (Shania Gracia)",
+          "copy": "SPPK967"
+        },
+        {
+          "id": "ID1646124838082",
+          "platform": "CIF LPAR4 (Fiony Alveria)",
+          "copy": "FL92481"
+        },
+        {
+          "id": "ID1646124851586",
+          "platform": "CIF LPAR4 (Shani Indira)",
+          "copy": "SPPJ819"
+        },
+        {
+          "id": "ID1646124861519",
+          "platform": "CIF LPAR 4 (Shani Indira)",
+          "copy": "SPPJ828"
+        },
+        {
+          "id": "ID1646124928325",
+          "platform": "Norek (MCGL971)",
+          "copy": "020601186904500"
+        },
+        {
+          "id": "ID1646124978188",
+          "platform": "Confluence User",
+          "copy": "ahmad.rifai"
+        },
+        {
+          "id": "ID1646124986945",
+          "platform": "Confluence Password",
+          "copy": "Pwd&L8Sqtv"
+        },
+        {
+          "id": "ID1646182666255",
+          "platform": "Timesheet Mystique",
+          "copy": "https://drive.google.com/drive/folders/1WsgaCg1hwU5pT9HCCDNlhdxBf1BxITuX"
+        },
+        {
+          "id": "ID1646182806943",
+          "platform": "Confluence Test Plan",
+          "copy": "https://confluence.bri.co.id/pages/viewpage.action?spaceKey=NDS&title=Link+Test+Plan+NDS"
+        },
+        {
+          "id": "ID1646187059858",
+          "platform": "Jaeger Dev",
+          "copy": "http://jaeger-server-nds-dev.apps.ocp-dev.bri.co.id/search"
+        },
+        {
+          "id": "ID1646197342863",
+          "platform": "Norek CA (FL92481)",
+          "copy": "020601010765303"
+        },
+        {
+          "id": "ID1646206694143",
+          "platform": "FAQ Vaksin",
+          "copy": "https://docs.google.com/document/d/1dTMG-bfxtvYoNpBGrBVV-81bXDMYonuZ_teJFPXSvJY/edit"
+        },
+        {
+          "id": "ID1646352972198",
+          "platform": "Elearning Password",
+          "copy": "loginelearning"
+        },
+        {
+          "id": "ID1646361283402",
+          "platform": "OARV02",
+          "copy": "891372974871"
+        },
+        {
+          "id": "ID1646362401563",
+          "platform": "OARV01",
+          "copy": "319787652221"
+        },
+        {
+          "id": "ID1646363045147",
+          "platform": "CIF LPAR4 (Asep)",
+          "copy": "ACFE404"
+        },
+        {
+          "id": "ID1646365107317",
+          "platform": "User 0206723 WRKOUTQ",
+          "copy": "PR020605"
+        },
+        {
+          "id": "ID1646378198220",
+          "platform": "RDN SID",
+          "copy": "IDD0801E6231985"
+        },
+        {
+          "id": "ID1646378206217",
+          "platform": "RDN SRE",
+          "copy": "DX001YYNS00193"
+        },
+        {
+          "id": "ID1646378215130",
+          "platform": "RDN PE",
+          "copy": "DX001"
+        },
+        {
+          "id": "ID1646959193187",
+          "platform": "Slide Doa Pagi",
+          "copy": "https://docs.google.com/presentation/d/1GcS7CZjIe9hF72etxlZkZCNeN3ZDDptrrf43ZeUPuf4/edit#slide=id.p"
+        },
+        {
+          "id": "ID1646966864215",
+          "platform": "Log Bypass",
+          "copy": "-events -check -403"
+        },
+        {
+          "id": "ID1647219799565",
+          "platform": "CIF LPAR4 (Yessica Tamara)",
+          "copy": "YW92602"
+        },
+        {
+          "id": "ID1647228029578",
+          "platform": "CIF LPAR4 (Zahra Nur Khaulah)",
+          "copy": "Z904838"
+        },
+        {
+          "id": "ID1647237487054",
+          "platform": "Form Vaksin Booster",
+          "copy": "https://docs.google.com/forms/d/e/1FAIpQLScAPJTqNfrCCLGCZCyrgDf2E009OCGxhLyW1m2_dy-P17RCew/viewform"
+        },
+        {
+          "id": "ID1647310840201",
+          "platform": "EFIN Pajak",
+          "copy": "2840925588"
+        },
+        {
+          "id": "ID1647565986953",
+          "platform": "Kartu",
+          "copy": "5221843123423290"
+        },
+        {
+          "id": "ID1647868619185",
+          "platform": "CIF LPAR2 (Joko)",
+          "copy": "JIC1228"
+        },
+        {
+          "id": "ID1648178354044",
+          "platform": "NPWP",
+          "copy": "921287249016000"
+        },
+        {
+          "id": "ID1648194222790",
+          "platform": "Rekening Britama Bisnis",
+          "copy": "020601000005569"
+        },
+        {
+          "id": "ID1648601601857",
+          "platform": "VP DEV Micro UI Print Pending Passbook",
+          "copy": "https://jira.bri.co.id/browse/VPDEV-536"
+        },
+        {
+          "id": "ID1649656307896",
+          "platform": "CIF Badan Usaha (LPAR4)",
+          "copy": "G931082"
+        },
+        {
+          "id": "ID1649661652952",
+          "platform": "Redis User",
+          "copy": "00273427"
+        },
+        {
+          "id": "ID1649661662328",
+          "platform": "Redis Password",
+          "copy": "Ganteng1"
+        },
+        {
+          "id": "ID1649662406744",
+          "platform": "Clear Redis Param",
+          "copy": "https://console-openshift-console.apps.ocp-dev.bri.co.id/k8s/ns/nds/pods/redis-nds-8-z2jw7/terminal"
+        },
+        {
+          "id": "ID1650601356436",
+          "platform": "TE Maintenance CIF Micro UI",
+          "copy": "https://jira.bri.co.id/browse/NDSN-6842"
+        },
+        {
+          "id": "ID1650933868176",
+          "platform": "IP Tunnel",
+          "copy": "34.101.91.27:5554"
+        },
+        {
+          "id": "ID1652148845991",
+          "platform": "VP Housekeeping",
+          "copy": "https://jira.bri.co.id/browse/VPDEV-974"
+        },
+        {
+          "id": "ID1652151881000",
+          "platform": "Link Perjiraan",
+          "copy": "https://docs.google.com/spreadsheets/d/1ixRq-occYo9CTQxX5lEqt5rT8y-CD6gahevKAajxzWg/edit#gid=1426463615"
+        }
+      ]
+}
